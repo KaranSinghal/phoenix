@@ -25,7 +25,7 @@ JAVA_HOME=
 # Not required in standalone.
 HBASE_PATH=
 
-# Add a space seperated list of -D environment args. "-Dkey1-val1 -Dkey2=val2"
+# Add a space seperated list of -D environment args. "-Dkey1=val1 -Dkey2=val2"
 ENV_PROPS=""
 
 # Uncomment if you would like to remotely debug
